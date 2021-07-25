@@ -1,0 +1,10 @@
+
+
+@media screen and (max-width: 641px) {
+	div {
+		min-height: 20vh;
+	}
+	div > form > h1 {
+		font-size: 18px;
+	}
+}
